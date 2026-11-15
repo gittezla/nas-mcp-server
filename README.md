@@ -39,7 +39,7 @@ Versions: Python 3.12, mcp 1.30.0, PyJWT 2.15.1, uvicorn 0.54.0, cloudflared 202
 ### 1. Get the files
 
 ```bash
-git clone https://github.com/Githubtezla/nas-mcp-server.git
+git clone https://github.com/gittezla/nas-mcp-server.git
 cd nas-mcp-server
 cp .env.example .env
 ```
